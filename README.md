@@ -16,6 +16,11 @@
 3. 古力娜扎
 4. 刘亦菲
 
+
+我的网站是[zhazhazhu](https://github.com/zhazhazhu)
+
+![一张图片](1.jpg)
+
 ```javascript
 console.log('hello')
 ```
